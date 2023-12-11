@@ -32,8 +32,8 @@ export default function RootLayout({ children }: { children: ReactNode }) {
             últimos preparativos do <br />nosso casamento, ficaríamos imensamente
             gratos.
             <br />
-            <br />A seguir, disponibilizamos as informações necessárias<br /> para que
-            você possa efetuar a transferência com comodidade.
+            <br />A seguir, disponibilizamos as informações<br />  necessárias para que
+            você possa efetuar  <br /> a transferência com comodidade.
           </p>
           <Pix />
       </body>

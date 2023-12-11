@@ -5,8 +5,9 @@ import Logo from "../../assets/svg/logob.svg";
 
 export default function Photo() {
   return (
+    
     <div className="relative ">
-      <div className=" absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 transform">
+      <div className=" absolute -left-16 md:left-48 md:top-10 top-2">
         <Image
           src={Logo}
           alt="logo Hugo & Thamires"

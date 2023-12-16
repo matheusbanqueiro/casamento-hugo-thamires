@@ -11,7 +11,7 @@ export default function Photo() {
         <Image
           src={Logo}
           alt="logo Hugo & Thamires"
-          className="opacity-20  h-32 md:h-auto"
+          className="opacity-30  h-32 md:h-auto"
         />
       </div>
       <Image

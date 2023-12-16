@@ -14,7 +14,6 @@ export default function Pix() {
     navigator.clipboard.writeText(cpf);
     setCopied(true);
 
-    // Resetar a mensagem de "copiado" após alguns segundos
     setTimeout(() => {
       setCopied(false);
     }, 2000);
